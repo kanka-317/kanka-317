@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20%2F%20Internship%20Roles-success?style=flat-square&logo=target" alt="Status">
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20West%20Bengal%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://komarev.com/ghpvc/?username=kanka-317&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=kanka-317&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
 </div>
@@ -371,15 +371,6 @@ I specialize in engineering end-to-end scalable web platforms and intelligent AI
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kanka-317&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
