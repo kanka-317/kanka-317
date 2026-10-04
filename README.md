@@ -236,7 +236,7 @@ AI-assisted social/media post generation project.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanka-317&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph">
+<img src="https://activity-graph.vercel.app/graph?username=kanka-317&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Activity Graph">
 
 </div>
 
